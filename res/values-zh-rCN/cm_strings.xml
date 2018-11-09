@@ -317,4 +317,6 @@
     <string name="app_notification_sound_timeout_value_30_minutes">30 分钟</string>
     <string name="data_usage_app_restrict_vpn">VPN数据</string>
     <string name="data_usage_app_restrict_vpn_summary">启用VPN数据的使用</string>
+	<string name="fp_swipe_to_dismiss_notifications_title">向左或向右滑动指纹以解除通知</string>
+	<string name="fp_swipe_to_dismiss_notifications_summary">要取消通知，请在手机背面的指纹传感器上向左或向右滑动。</string>
 </resources>
