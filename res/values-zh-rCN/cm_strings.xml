@@ -298,4 +298,12 @@
     <string name="location_mode_battery_saving_summary">仅使用 Wi-Fi、蓝牙和移动网络来测定位置（不太准确）</string>
     <string name="volte_icon_title">VoLTE图标</string>
     <string name="volte_icon_summary">显示VoLTE图标（需要重启SystemUI才能生效）</string>
+    <string name="thermal_control_per_app">优化配置文件</string>
+    <string name="thermal_control_per_app_default">无优化</string>
+    <string name="thermal_control_per_app_benchmark">执行</string>
+    <string name="thermal_control_per_app_games">游戏</string>
+    <string name="thermal_control_per_app_browser">浏览器</string>
+    <string name="thermal_control_per_app_video_playback">视频播放</string>
+    <string name="thermal_control_per_app_dialer">拨号器</string>
+    <string name="thermal_control_per_app_camera">相机</string>
 </resources>
