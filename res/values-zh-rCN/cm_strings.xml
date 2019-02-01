@@ -323,4 +323,7 @@
     <string name="face_auto_unlock_summary">面部解锁后解除锁屏</string>
     <!-- Screenshot sound -->
     <string name="screenshot_sound_title">截屏声音</string>
+    <!-- Phone uptime -->
+    <string name="phone_up_time">已运行时间</string>
+    <string name="status_deep_sleep">(深度休眠: %1$d%2$s)</string>
 </resources>
