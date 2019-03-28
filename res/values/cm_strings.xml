@@ -393,4 +393,7 @@
     <string name="app_notification_sound_timeout_value_5_minutes">5 minutes</string>
     <string name="app_notification_sound_timeout_value_15_minutes">10 minutes</string>
     <string name="app_notification_sound_timeout_value_30_minutes">30 minutes</string>
+    <!-- Show VoLTE icon on statusbar -->
+    <string name="volte_icon_title">VoLTE icon</string>
+    <string name="volte_icon_summary">Display VoLTE icon (Needs a SystemUI restart to take effect)</string>
 </resources>

@@ -296,4 +296,6 @@
     <string name="open_lockscreen_tuner">更改快捷键</string>
     <string name="location_mode_battery_saving_title">省电模式</string>
     <string name="location_mode_battery_saving_summary">仅使用 Wi-Fi、蓝牙和移动网络来测定位置（不太准确）</string>
+    <string name="volte_icon_title">VoLTE图标</string>
+    <string name="volte_icon_summary">显示VoLTE图标（需要重启SystemUI才能生效）</string>
 </resources>
