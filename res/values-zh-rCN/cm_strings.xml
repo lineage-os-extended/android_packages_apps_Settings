@@ -292,7 +292,7 @@
     <string name="directly_show_lock">直接解锁</string>
     <string name="directly_show_lock_summary">跳过滑动解锁屏幕直接开始输入密码</string>
     <string name="swipe_to_screenshot_gesture_title">滑动屏幕截图</string>
-    <string name="swipe_to_screenshot_gesture_summary">用三根手指滑动屏幕截图</string>
+    <string name="swipe_to_screenshot_gesture_summary">用三根手指滑动屏幕截图(需要重启才能生效)</string>
     <string name="open_lockscreen_tuner">更改快捷键</string>
     <string name="location_mode_battery_saving_title">省电模式</string>
     <string name="location_mode_battery_saving_summary">仅使用 Wi-Fi、蓝牙和移动网络来测定位置（不太准确）</string>
