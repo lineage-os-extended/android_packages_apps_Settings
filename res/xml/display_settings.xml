@@ -205,7 +205,7 @@
 	 android:summary="@string/lockscreen_battery_info_summary"
 	 android:defaultValue="true" />
  
-    <lineageos.preference.SystemSettingSwitchPreference
+     <ListPreference
         android:key="screen_off_animation"
         android:title="@string/screen_off_animation_title"
         android:dialogTitle="@string/screen_off_animation_title"
