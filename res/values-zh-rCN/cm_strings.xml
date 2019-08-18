@@ -321,4 +321,6 @@
     <string name="fp_swipe_to_dismiss_notifications_summary">要取消通知，请在手机背面的指纹传感器上向左或向右滑动。</string>
     <string name="face_auto_unlock_title">人脸解锁</string>
     <string name="face_auto_unlock_summary">面部解锁后解除锁屏</string>
+    <!-- Screenshot sound -->
+    <string name="screenshot_sound_title">截屏声音</string>
 </resources>
