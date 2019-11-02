@@ -422,4 +422,7 @@
 	
     <string name="status_deep_sleep">(Deep sleep: %1$d%2$s)</string>
     <string name="phone_up_time">Phone up time:</string>
+
+    <!-- Label for settings shortcut: mobile network -->
+    <string name="network_settings_shortcut_title">Mobile network</string>
 </resources>
